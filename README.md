@@ -1,6 +1,12 @@
 # Le Game
 
-This is a tiny Luajit+Cuik demo, as long as the cuik.dll is in your path you can do:
+This is a tiny Luajit+Cuik demo, currently it's windows only. You can try it via:
+
+```
+setup.bat
+```
+
+or if you already have cuik.dll and luajit installed:
 
 ```
 luajit main.lua
